@@ -1,0 +1,30 @@
+.navbar{
+	padding: 1rem;
+}
+
+.jumbotron {
+	padding-top: 6rem;
+	margin-top: 2rem;
+	background-color: #eaeaea;
+}
+
+.project {
+	background-color: #eaeaea;
+}
+
+section {
+	padding-top: 5rem;
+}
+
+.link {
+	text-decoration: none;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.link:hover {
+	text-decoration: none;
+	color: #eaeaea;
+	font-weight: bold;
+}
+
